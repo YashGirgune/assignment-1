@@ -1,7 +1,7 @@
 
 1)  searching and sorting
 Sub :- Dsa
-Name:- Jyoti Rajesh Makwan
+Name:- yash girgune
 Assingment no :-1
 
 #include <iostream>
